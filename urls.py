@@ -1,0 +1,12 @@
+URL_MAIN_PAGE = 'https://qa-stellarburgers.education-services.ru'
+URL_CONSTRUCTOR_PAGE = f'{URL_MAIN_PAGE}/'
+URL_FEED_PAGE = f'{URL_MAIN_PAGE}/feed'
+URL_LOGIN_PAGE = f'{URL_MAIN_PAGE}/login'
+URL_FORGOT_PASSWORD_PAGE = f'{URL_MAIN_PAGE}/forgot-password'
+URL_RESET_PASSWORD_PAGE = f'{URL_MAIN_PAGE}/reset-password'
+URL_PROFILE_PAGE = f'{URL_MAIN_PAGE}/account/profile'
+URL_ORDER_HISTORY_PAGE = f'{URL_MAIN_PAGE}/account/order-history'
+
+URL_API = f'{URL_MAIN_PAGE}/api'
+URL_API_REGISTER = f'{URL_API}/auth/register'
+URL_API_USER = f'{URL_API}/auth/user'
